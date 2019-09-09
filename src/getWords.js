@@ -15,4 +15,4 @@ function* getWords(str) {
     yield result;
 }
 
-export default getWords()
+export default getWords();

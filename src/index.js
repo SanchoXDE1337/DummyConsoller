@@ -1,4 +1,4 @@
-import getWords from "./getWords"
+import getWords from "./getWords";
 
 let button = document.querySelector(".btn");
 button.addEventListener("click", function () {

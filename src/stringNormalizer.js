@@ -13,4 +13,4 @@ const stringNormalizer = (str) => {
     return(result);
 };
 
-export default stringNormalizer()
+export default stringNormalizer();
